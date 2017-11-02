@@ -1,0 +1,9 @@
+Started on 26 oct. 2017 13:30:46
+Started by event from 51.255.192.125 ⇒ http://psodev.ddns.net:3001/github-webhook/ on jeu. oct. 26 13:30:46 CEST 2017
+Using strategy: Default
+[poll] Last Built Revision: Revision bef412faaf52a36f1d6225d1aed8627008842fc3 (refs/remotes/origin/master)
+using GIT_ASKPASS to set credentials Psolyca U/P
+ > git ls-remote -h https://psogit.ddns.net/psolyca/totalopenstation/ # timeout=10
+Found 15 remote heads on https://psogit.ddns.net/psolyca/totalopenstation/
+Done. Took 0,3 s
+No changes
